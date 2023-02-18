@@ -7,7 +7,7 @@ function App() {
   return (
     <div>
       <Header />
-      <main className="container 2xl mx-auto">
+      <main className="container  mx-auto px-4 ">
         <HomeScreen />
       </main>
       <Footer />
