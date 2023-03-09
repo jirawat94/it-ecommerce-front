@@ -23,6 +23,7 @@ function Product({ product }) {
           ${product.price}
         </p>
         <Rating value={product.rating} text={`${product.numReviews} Reviews`} />
+        <h1>fkjhkfhksdh</h1>
       </div>
     </div>
   );
